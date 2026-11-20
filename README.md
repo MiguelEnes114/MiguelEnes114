@@ -1,4 +1,4 @@
-[## Hi there 👋](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&section=header&reversal=false&text=Miguel+Enes&textBg=false&fontSize=86&fontAlign=50&fontAlignY=50&animation=blink&rotate=0&stroke=696969&strokeWidth=0&desc=Programmer+Student&descSize=15&descAlign=50&descAlignY=65)
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&section=header&reversal=false&text=Miguel+Enes&textBg=false&fontSize=86&fontAlign=50&fontAlignY=50&animation=blink&rotate=0&stroke=696969&strokeWidth=0&desc=Programmer+Student&descSize=15&descAlign=50&descAlignY=65"/>
 
 <!--
 **MiguelEnes114/MiguelEnes114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
